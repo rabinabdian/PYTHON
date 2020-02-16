@@ -1,62 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="/Dummy.txt" timestamp="1581439269236">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/PYTHON/code/stringManipulations.py" timestamp="1581439378357" />
-      <file name="/Python Console" timestamp="1566903951983">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1566314081136">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/api_test/test.py" timestamp="1566904306708">
-        <mark key="[" line="67" column="33" />
-        <mark key="]" line="67" column="33" />
-        <mark key="." line="67" column="33" />
-      </file>
-      <file name="/test" timestamp="1566904311868">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/StringManipulations/upper.py" timestamp="1581438915386">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps />
-    <registers>
-      <register name="1" type="4">
-        <text encoding="base64">CgppZg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgQXBwX1VSTD0iaHR0cDovL2Q0LXNpc3RlcnMyLnJlZGJlbmQuY29tOjgwODAvc21hL2FwaS9sb2dpbiIKICAgIGY9IG9wZW4oJ0M6L1VzZXJzL3JhdmRhaWFuL0RvY3VtZW50cy9qc29uLXJlcXVlc3QtcGF5bG9hZC9sb2dpbi5qc29uJywncicpCiAjICAgcmVxdWVzdF9qc29uPQogICAgcmVzcG9uc2U9cmVxdWVzdHMucG9zdChBcHBfVVJMLGpzb24ubG9hZHMoZi5yZWFkKCkpKQogICAjIGlkPWpzb25wYXRoLmpzb25wYXRoKHJlc3BvbnNlLmpzb24oKSwnc2Vzc2lvbklkJykKICAgIHByaW50KHJlc3BvbnNlLmpzb24oKSkKCiAgICBwcmludCgiZGZramRpZmhkaWhnaWRmaGdkZmhnZmRoZ2ZkaGciKQ==</text>
-      </register>
-      <register name="3" type="4">
-        <text>import httplib
-import urllib2</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">dGV4dCkK</text>
-      </register>
-      <register name="-" type="4">
-        <text>e</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
@@ -70,6 +14,14 @@ import urllib2</text>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
